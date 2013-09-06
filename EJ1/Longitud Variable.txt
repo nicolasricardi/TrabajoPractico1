@@ -1,0 +1,9 @@
+Pedro,Sanchez,La Plata,23
+Juan,Tevez,La Plata,23
+Mario,Scala,La Plata,23
+Marina,Lopez,Berisso,25
+Maria,Gimenez,Berisso,20
+Jose,Trano,Berisso,30
+Ariel,Mango,Ensenada,18
+Ulises,Prio,Ensenada,28
+Marta,Perez,Ensenada,60

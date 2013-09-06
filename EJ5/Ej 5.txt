@@ -1,0 +1,12 @@
+*Calcular el tamaño de un registro (R) en bytes
+	El tamaño del registro (R) en bytes es 118
+
+*Calcule el factor de bloqueo del archivo y el numero de bloques del archivo
+	El factor de bloqueo del archivo es 4 (512/118=4.33, parte entera es 4)
+	El numero de bloques del archivo es 5000 (20000/4=5000)
+
+*Calcule que cantidad promedio de bloques del archivo deberán revisarse si se utiliza una búsqueda lineal en el mismo
+	La cantidad promedio de busqueda es N/2=5000/2=2500
+
+*Suponga que el archivo esta ordenado por DNI, calcule la cantidad promedio de bloques del archivo que deberá revisarse si se utiliza una búsqueda binaria de un registro, dado su número de DNI
+	La cantidad de busquedas en un archivo ordenado esta dado por log(2)5000=12,28

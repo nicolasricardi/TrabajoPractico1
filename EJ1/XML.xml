@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Registros>
+<Persona>
+	<Nombre>Pedro</Nombre>
+	<Apellido>Sanchez</Apellido>
+	<Localidad>La Plata</Localidad>
+	<Edad>23</Edad>
+</Persona>
+<Persona>
+	<Nombre>Juan</Nombre>
+	<Apellido>Tevez</Apellido>
+	<Localidad>La Plata</Localidad>
+	<Edad>23</Edad>
+</Persona>
+<Persona>
+	<Nombre>Mario</Nombre>
+	<Apellido>Scala</Apellido>
+	<Localidad>La Plata</Localidad>
+	<Edad>23</Edad>
+</Persona>
+<Persona>
+	<Nombre>Marina</Nombre>
+	<Apellido>Lopez</Apellido>
+	<Localidad>Berisso</Localidad>
+	<Edad>25</Edad>
+</Persona>
+<Persona>
+	<Nombre>Maria</Nombre>
+	<Apellido>Gimenez</Apellido>
+	<Localidad>Berisso</Localidad>
+	<Edad>20</Edad>
+</Persona>
+<Persona>
+	<Nombre>Jose</Nombre>
+	<Apellido>Trano</Apellido>
+	<Localidad>Berisso</Localidad>
+	<Edad>30</Edad>
+</Persona>
+<Persona>
+	<Nombre>Ariel</Nombre>
+	<Apellido>Mango</Apellido>
+	<Localidad>Ensenada</Localidad>
+	<Edad>18</Edad>
+</Persona>
+<Persona>
+	<Nombre>Ulises</Nombre>
+	<Apellido>Prio</Apellido>
+	<Localidad>Ensenada</Localidad>
+	<Edad>28</Edad>
+</Persona>
+<Persona>
+	<Nombre>Marta</Nombre>
+	<Apellido>Perez</Apellido>
+	<Localidad>Ensenada</Localidad>
+	<Edad>60</Edad>
+</Persona>
+</Registros>

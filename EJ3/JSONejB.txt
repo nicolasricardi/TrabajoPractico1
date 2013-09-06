@@ -1,0 +1,47 @@
+{
+ "Personas":[
+	     {"nombre":"Pedro Sanchez",
+	      "ciudad":"La Plata",
+	      "equipo":"Estudiantes",
+	      "edad":"23",
+               "Hijos":[
+                        {"nombre":"**********",
+	                 "ciudad":"**********",
+	      	         "equipo":"**********",
+	                 "edad":"**"
+			}
+		       ]
+	     },
+             {"nombre":"Juan Tevez",
+	      "ciudad":"La Plata",
+	      "equipo":"Gimnasia",
+	      "edad":"23",
+              "Hijos":[
+                        {"nombre":"**********",
+	                 "ciudad":"**********",
+	      	         "equipo":"**********",
+	                 "edad":"**"
+			}
+		       ]
+	     },
+             {"nombre":"Mario Scala",
+	      "ciudad":"La Plata",
+	      "equipo":"Boca",
+	      "edad":"23",
+              "Hijos":[
+                        {"nombre":"**********",
+	                 "ciudad":"**********",
+	      	         "equipo":"**********",
+	                 "edad":"**"
+			},
+                        {"nombre":"**********",
+	                 "ciudad":"**********",
+	      	         "equipo":"**********",
+	                 "edad":"**"
+			}
+                       ]
+		      
+	     
+	    }]
+
+}

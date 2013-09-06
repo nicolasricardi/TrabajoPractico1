@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Registros>
+	<Persona>
+	   <Nombre>**********</Nombre>
+	   <Ciudad>**********</Ciudad>
+	   <Equipo>**********</Equipo>
+	   <Edad>**</Edad>
+            <Hijos>
+                 <Hijo>
+			<Nombre>**********</Nombre>
+	                <Ciudad>**********</Ciudad>
+	      	        <Equipo>**********</Equipo>
+	                <Edad>**</Edad>
+		 </Hijo>
+	    </Hijos>
+	</Persona>
+</Registros>

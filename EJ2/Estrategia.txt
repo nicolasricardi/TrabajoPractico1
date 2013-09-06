@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Registro>
+	<Persona>
+		<Nombre></NOmbre>
+		<Edad></Edad>
+		<Datoscomp></Datoscomp>
+		<Contacto></Contacto>
+	</Persona>
+</Registro>
